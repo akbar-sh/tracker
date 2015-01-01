@@ -17,6 +17,9 @@
     "monk": "*",
     "is-promise": "*",
     "uglify-js": "*",
-    "css-parse": "~2.0.0"
+    "css-parse": "~2.0.0",
+    "passport-facebook": "~1.0.3",
+    "passport": "~0.2.1",
+    "cookie-session": "*"
   }
 }
